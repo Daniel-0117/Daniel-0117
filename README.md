@@ -13,7 +13,7 @@
 ---
 ### 💻 &nbsp; About Me :
 
-- 👨‍💻 All of my projects are available at [https://daniel-0117.github.io/My-Profile/ ]"https://DanielPacheco.com"
+- 👨‍💻 All of my projects are available at https://daniel-0117.github.io/My-Profile/
 
 - 💬 Ask me about **Warhammer, DND, and Games!**
 
