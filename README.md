@@ -8,7 +8,7 @@
     <p> <img src="https://komarev.com/ghpvc/?username=daniel-0117&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-0117" /> </p>
   </div>
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-0117" alt="Daniel Pacheco" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-0117&theme=onedark" alt="Daniel Pacheco" /></a> </p>
 
 ---
 ### 💻 &nbsp; About Me :
