@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1 align="center">Hi :wave:, I'm Daniel Pacheco</h1>
-  <h3 align="center">An aspiring Back-End developer/Database Administrator located in Tucson.</h3>
+  <h3 align="center">Backend developer passionate about building reliable APIs and managing complex data systems</h3>
+  <h3 align="center">Currently learning Python and C++ to expand my skillset</h3>
   <div id="badges">
     <a href="https://www.linkedin.com/in/daniel-mercer-pacheco/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
